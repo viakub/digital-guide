@@ -1,0 +1,16 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_868FCC52_8AD2_4D94_41D4_599E5398EF78.label = Ultraschall_Club_Munich_1997_Panorama_Bar
+panorama_80B1D974_8AD2_379C_41D6_5F8F7D085CC9.label = Ultraschall_Club_Munich_1997_Panorama_Dance_Area
+panorama_80CB3D7E_8AD2_CF8C_41D4_E589DFDE3841.label = Ultraschall_Club_Munich_1997_Panorama_Dumpling_Room
+panorama_80CBDFB6_8AD2_CA9C_41A5_AA74F14BCEA8.label = Ultraschall_Club_Munich_1997_Panorama_Green_Room
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Nightclubs
